@@ -1,0 +1,7 @@
+Labots OS X "Latvian" klaviatūras izkārtojums, līdzīgs Windows "Latvian (QWERTY)" izkārtojumam. Veiktas sekojošās izmaiņas:
+ - Novākts "dead key" no apostrofa
+ - Shift+3 izvada "#" nevis "£"
+
+Modified OS X "Latvian" keyboard layout that is very similar to the Windows "Latvian (QWERTY)" layout. The following changes have been made:
+- No dead key on the apostrophe
+- Shift+3 outputs "#" instead of "£"
