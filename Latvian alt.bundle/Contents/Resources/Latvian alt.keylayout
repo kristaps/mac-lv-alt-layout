@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.2.6 on 2013-12-03 at 01:26 (EET)-->
+<!--Last edited by Ukelele version 2.2.8 on 2014-03-15 at 21:58 (GMT+2)-->
 <keyboard group="0" id="8525" name="Latvian alt" maxout="1">
     <layouts>
         <layout first="0" last="0" modifiers="30" mapSet="138"/>
@@ -307,7 +307,7 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" action="17"/>
             <key code="38" output="J"/>
-            <key code="39" action="0"/>
+            <key code="39" output="&#x0027;"/>
             <key code="40" action="16"/>
             <key code="41" output=";"/>
             <key code="42" output="\"/>
